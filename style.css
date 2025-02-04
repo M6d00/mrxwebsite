@@ -49,7 +49,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(https://github.com/M6d00/mrxwebsite/blob/main/background.jpg) no-repeat;
+    background: url(.background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
